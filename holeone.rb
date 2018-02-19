@@ -1,7 +1,8 @@
 def sumarr()
-   
-   b = [2,4].sum
-
-puts "[2,4] #{b}"
-end
-sumarr
+    a =  [2,4]
+    b = a.sum
+    puts "#{a} #{b}"
+    
+ end
+ sumarr
+ 
