@@ -1,7 +1,11 @@
 
-    a =  [2,4]
-    b = a.sum
-    puts "#{a} #{b}"
+def sum(arr, b)
+     arr.sum
+end
+arr = [1,9]  
+puts " #{arr} #{arr.sum}"
+    
+ 
     
 
  
